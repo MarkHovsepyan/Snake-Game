@@ -1,2 +1,2 @@
 # Snake-Game
-Java "Snake" game source code
+Java "Snake" game source code by Mark Hovsepyan
